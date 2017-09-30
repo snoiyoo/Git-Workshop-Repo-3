@@ -1,5 +1,5 @@
 line1
-line1
+line2 edit on branch feature 2
 line1
 line1
 line1

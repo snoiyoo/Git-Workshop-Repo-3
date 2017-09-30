@@ -1,12 +1,10 @@
 line1
+line3 edit on branch feature 3
 line1
 line1
 line1
 line1
 line1
-line1
-line1
-line1
-line1
+
 add line 3
 add line 3
