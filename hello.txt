@@ -1,5 +1,5 @@
 test
-edit for commit 5
+testte
 test
 end of line
 test 5
