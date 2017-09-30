@@ -1,3 +1,12 @@
 test
 testte
 test
+end of line
+test 5
+test 6
+commit3
+commit3
+commit 3
+aaa
+aaaa
+aaaa
